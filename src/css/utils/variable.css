@@ -1,0 +1,15 @@
+:root {
+    /* Color styles */
+--bleu-dark: rgba(11, 24, 66, 1);
+--bleu-royal: rgba(19, 39, 106, 1);
+--bleu-piscine: rgba(103, 117, 160, 1);
+--bleu-pale: rgba(142, 151, 184, 1);
+--jaune: rgba(244, 185, 70, 1);
+--marron: rgba(148, 107, 51, 1);
+
+/* Text-size styles */
+--h1-saé: 32px;
+--h2-saé: 20px;
+--h3-saé: 18px;
+--body-saé: 12px;
+}
