@@ -1,0 +1,35 @@
+*,
+body {
+    font-family: 'Roboto',sans-sérif;
+    font-size: var(--body-saé);
+    color:var(--blanc);
+}
+
+main {
+    margin-top: 10%;
+    background-image: url(../../../public/images/fixedBackground.jpg);
+}
+
+h1 {
+    font-size: var(--h1-saé);
+    font-family: 'Anton',sans-sérif;
+    font-weight: 50;
+    color:var(--blanc);
+    text-align:center;
+}
+
+h2 {
+    font-size: var(--h2-saé);
+    font-weight: 50;
+    text-align:center;
+    font-family: 'Anton',sans-sérif;
+    color:var(--blanc);
+}
+
+h3 {
+    font-size: var(--h3-saé);
+    font-family: 'Arial',sans-sérif;
+    color:var(--blanc);
+}
+
+

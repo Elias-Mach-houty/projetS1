@@ -1,0 +1,17 @@
+.footer {
+    background-color: var(--bleu-dark);
+    color: var(--bleu-dark);
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+.projet {
+  display: flex;
+  text-align: center;
+}
+
+.PPJ {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
